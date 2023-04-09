@@ -30,14 +30,13 @@
   <p align="center">
     Grow with love and technology.
     <br />
-    <a href="https://www.youtube.com/watch?v=SfHPnzGl8rc"><strong>Demo Video Link! »</strong></a>
+    <a href="https://www.youtube.com/watch?v=yVCV0rzNYgQ"><strong>Demo Video Link! »</strong></a>
+    <a href="https://www.tinkercad.com/things/9jBVNDOsa2Q"><strong>Tinkercad Simulation </strong></a>
     <br />
     <br />
     <a href="https://devpost.com/software/plantpal">Devpost Link</a>
-    ·
-    <a href="https://github.com/arncv/BotanicBuddy/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/arncv/BotanicBuddy/issues">Request Feature</a>
+    .
+    <a href="https://github.com/arncv/BotanicBuddy/issues">Request Bug</a>
   </p>
 </div>
 
