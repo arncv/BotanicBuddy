@@ -22,7 +22,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/arncv/BotanicBuddy">
-    <img src="public/img/logo.png" alt="Logo" width="300" height="240">
+    <img src="assets/logo.png" alt="Logo" width="300" height="240">
   </a>
 
 <h3 align="center">Botanic Buddy</h3>
